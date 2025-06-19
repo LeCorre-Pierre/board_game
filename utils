@@ -1,0 +1,4 @@
+# Fonctions utilitaires (log, config, etc.)
+
+def log(msg):
+    print(f"[LOG] {msg}")

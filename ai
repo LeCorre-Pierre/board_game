@@ -1,0 +1,7 @@
+# Intelligence artificielle : agents, algorithmes génétiques, etc.
+
+class BaseAgent:
+    pass
+
+class GeneticAlgorithm:
+    pass

@@ -1,0 +1,158 @@
+
+But du jeu
+
+Montrez qui est le vrai maître du Nexus : repoussez vos adversaires à travers un Portail pour remporter la partie. Attention, le Nexus est petit… pas facile d’être le dernier debout !
+Matériel de jeu
+
+Lorsque vous achetez une figurine Nexus Keeper, celle-ci est contenue dans un Cube de transport. Ce cube s'appelle un Cube Nexus. La figurine incluse est le fier (ou fourbe) représentant d’un des nombreux mondes reliés par le Nexus. Ce personnage s’appelle un Keeper.
+
+5 stickers Terrain sont également inclus dans le cube Nexus. Ceux-ci doivent être collés sur chacune des 5 tuiles qui s’alignent lorsque le cube est ouvert et déployé. Sur l’un de ces stickers, vous pouvez apercevoir le symbole [porte]. Ce sticker doit absolument être collé sur la Tuile de départ, au pied de la porte. Les autres Stickers peuvent être collés où vous voulez !
+
+Vous aurez également besoin de quelques dés à six face. Ceux-ci ne sont pas fournis avec votre figurine mais demandez aux vendeurs où vous en procurez si vous n’en avez pas. Peut-être produit il ses propres dés ?
+
+Enfin, une carte de personnage vous servira également dans la partie. Celle-ci contient toutes les informations pour jouer votre Keeper !
+Préparation
+
+Tous les joueurs lancent un dé. Le résultat le plus haut devient le Premier Joueur et déploie son cube Nexus sur l’espace de jeu.
+
+Les autres joueurs déploient alors à leur tour (dans le sens horaire) leur Cube Nexus en connectant au moins deux tranches de Tuiles Terrain à une ou plusieurs Tuiles Terrain déjà en jeu. Aucune Tuile Terrain ne peut se trouver juste derrière une Porte en jeu.
+Alliés ou Adversaires ?
+
+Dans le cas d’une partie à plus de deux joueurs, décidez entre vous si vous voulez que vos Keepers soit alliés ou adversaires. Les joueurs alliés remportent la partie en équipe : si un ou plusieurs Keepers d'une même équipe sont les derniers sur le plateau, toute l'équipe remporte la victoire.
+
+Vous êtes prêts ? Tous les joueurs peuvent maintenant placer leur Keeper sur leur Tuile de départ, devant la Porte de leur Cube Nexus. La partie peut commencer !
+Les Trois Actions
+
+Dans Nexus Keepers, vos personnages peuvent effectuer, à chaque tour, une ou plusieurs actions parmi les trois actions existantes. Découvrons les avant de voir comment les utiliser grâce à votre lancer de dés
+
+Ce symbole représente l'action Bouger : lorsque votre Keeper bouge, il se déplace vers une case adjacente, en ligne droite.
+
+Ce symbole représente l'action Sauter : lorsque votre Keeper saute, il dispose de deux choix :
+
+    Il se déplace sur une case adjacente diagonale.
+    Il saute par-dessus un autre Keeper, en ligne droite et atterrit à deux cases de son point de départ.
+
+Notez que vous ne pouvez sauter par dessus un autre Keeper que si une autre figurine est adjacente à votre Keeper.
+
+Ce symbole représente l'action Pousser : pour pousser un autre personnage, votre Keeper doit être adjacent (en ligne droite) à celui-ci. 
+Le Personnage est alors repoussé d’une case, dans la direction opposée de votre Keeper alors que votre Keeper reste en place.
+
+Si un autre personnage se trouve sur la case d’arrivée, celui-ci est poussé à son tour ! Notez que vous pouvez tout à fait pousser un Keeper allié !
+Nombre de Dés lancés
+
+Chaque joueur effectue, tour à tour, un lancer de dés.
+
+    Lors du premier tour de chaque joueur, les joueurs lancent 5 dés.
+    Lors des tours suivants, ils lancent 6 dés.
+    Notez que certains effets de jeu peuvent modifier le nombre de dé lancés.
+
+Le résultat de ce lancer permet à un joueur de déterminer les actions effectuées par son Keeper pour le tour en cours.
+
+Chaque Keeper est plus à l’aise sur un certain type de terrain et moins sur un autre.
+
+    Lorsque votre Keeper débute son tour sur son terrain de prédilection (marqué d’un +), lancez 1 dé supplémentaire.
+    Lorsqu’il se trouve sur un terrain défavorable (marqué d'un –), lancez un dé de moins.
+
+Effectuer un lancer
+
+Lorsqu’un joueur lance ses dés, il lance tous les dés d’un coup. Il peut ensuite relancer autant de dés qu’il veut, jusqu'à deux fois de suite.Cependant,
+ vous ne pouvez pas relancer les résultats de 1.
+MALADRESSE :  Si au cours de votre tour, vous accumulez trois résultats de 1, vous passez votre tour au lieu de passer à la suite. Il faut parfois savoir 
+s’arrêter !	
+Important : Lors de vos relances, vous ne pouvez jamais relancer un dé seul. Un minimum de deux dés sont nécessaires.	
+Valider vos Actions
+
+Les résultats obtenus vous indiquent quelles actions votre Keeper peut alors entreprendre. Pour valider une action, il vous faudra obtenir au moins un 
+double pour l’un des résultats indiqués sur la carte de votre Keeper.
+Notez que les résultats de 1 ne correspondent jamais à une action. Votre Keeper ne peut pas se servir d’un résultat aussi bas !
+Ceci indique qu’il faut obtenir un double 2 pour pouvoir bouger.	
+Ceci indique qu’avec un double 6, vous pouvez soit bouger, soit sauter, soit pousser !	
+Combiner vos Actions
+
+Le résultat de votre lancer de dés vous permettra alors de combiner plusieurs actions. Si vous obtenez trois doubles, vous pourriez très bien bouger, 
+sauter et pousser au cours du même tour. Notez que vous pouvez également choisir des paires différentes pour effectuer la même action plusieurs fois.
+
+Vous pouvez effectuer les actions dans l’ordre de votre choix. Par exemple, si votre personnage peut bouger de deux cases et pousser, vous pouvez tout 
+à fait bouger de une case, pousser un Keeper puis bouger à nouveau de une case.
+Actions Améliorées
+
+Lorsque vous obtenez mieux qu’un double, vous pouvez augmenter l’effet de votre action !
+
+    Bouger : En plus du double, chaque dé supplémentaire vous permet de Bouger d’une case supplémentaire. Un triple vous permettra de bouger de 2 cases, 
+	un quadruple de 3 cases, etc...
+    Sauter : Chaque dé supplémentaire, en plus du double, vous permet d’ajouter une case à votre saut. Un triple vous permettra donc de vous déplacer de 
+	deux cases en diagonale ou de sauter au-dessus de 2 Keepers alignés. Si l’occasion se présente, vous pouvez même combiner des sauts en diagonale et des
+	sauts par dessus les Keepers !
+     Pousser : En plus du double, chaque dé supplémentaire vous permet de pousser un Keeper adjacent une case plus loin. Un triple vous permettra donc de
+	 pousser un autre Personnage de deux cases !
+
+Rappelez-vous que vous pouvez combiner différents résultats pour former votre action finale. Par exemple, Si un triple et un double de votre lancé vous
+ permettent tous les deux de pousser, vous pouvez additionner les 5 dés pour pousser un Keeper de 3 cases ! (2 avec le triple et un avec le double).
+
+Vous n’êtes jamais obligé d'utiliser la totalité d’une action : si vous avez obtenu un triple pour bouger mais que vous voulez rester sur place, vous 
+pouvez le faire.
+Réserver un Dé
+
+Il vous reste un double que vous n’avez (ou ne voulez) pas utilisé ça tombe bien ! Il existe une quatrième action secrète…
+À la fin de votre tour, vous pouvez placer un dé d’un double non utilisé sur la réserve de votre personnage.
+
+La réserve se trouve dans le coin supérieur
+gauche de la carte du Keeper.
+
+Le résultat du double est alors réservé pour le prochain tour. Placez un dé dont le résultat correspond au double obtenu (avec un double 4, un 4 est 
+réservé tandis qu’avec un double 6, vous pouvez réserver un 6 !). Ce dé réservé sera automatiquement ajouté au lancer de votre prochain tour. 
+Contrairement aux autres dés, celui-ci ne peut être lancé ou relancé. Ajoutez simplement le dé au résultat final, après toutes relances.
+
+Notez que vous pouvez tout à fait réserver un résultat de 1. Cela est rarement avisé mais peut-être que certains Keepers peuvent y trouver un intérêt 
+stratégique ?
+
+Si un dé est réservé alors qu’un dé se trouve déjà sur votre réserve, celui-ci remplace toujours le dé précédent.
+Dés de Pouvoir
+
+Votre Keeper possède également un nombre défini de dés de Pouvoir indiqué par l'orbe magique, dans le coin supérieur droit de la carte du Keeper.
+Ce Keeper possède 2 dés de Pouvoir.	
+
+Un dé de Pouvoir est un dé à usage unique : chaque dé de Pouvoir peut être utilisé une seule fois par partie.
+
+Ce dé peut être lancé, en plus de vos dés de base, à n’importe quel moment ! Ce qui veut dire que vous pouvez tout à fait lancer un ou plusieurs dés de
+ pouvoir, même après vos deux relances ! Ajoutez simplement le résultat du ou des dés de pouvoir au résultat total.
+Les dés de pouvoir sont également les seuls dés que vous pouvez lancer seuls. Notez que vous pouvez tout à fait utiliser un dé de pouvoir pour relancer 
+un autre dé régulier, car vous relancez alors au moins deux dés.
+
+Les dés de Pouvoir sont une ressource rare et très utile,essayez de vous en servir à des moments clés !
+Compétences
+
+Chaque Keeper possède également une ou plusieurs compétences. La description de celles-ci vous explique comment les utiliser. Certaines compétences 
+définissent une règle qui est toujours d’application pour votre Keeper (ou sous une condition spécifique) tandis que d’autres doivent être déclenchées 
+avec un résultat défini !
+
+Pour utiliser la compétence de ce Keeper, vous devez obtenir la suite 1,2,3,4.
+Oui, certains Keepers trouvent quand même une façon d’utiliser les 1 !
+Condition de Victoire
+
+Pour remporter la partie, vous devez éliminer tous les adversaires. Pour ce faire, une seule solution : les envoyer dans un Royaume. 
+Pousser un Keeper à travers n'importe quel portail l'élimine de la partie.
+Tomber du Plateau
+
+Il arrive souvent qu’un Keeper soit poussé en dehors du plateau, mais sans passer par une porte. Dans tel cas, celui-ci est placé derrière sa porte 
+d'origine en attendant son prochain tour. Au début de son tour, le joueur replace son Keeper sur sa Tuile de départ avant de lancer ses dés.
+Bloquer un Portail
+
+Au début de son tour, si un autre personnage se trouve sur la case de départ du Keeper alors qu’il doit revenir en jeu après être tombé du plateau,
+ celui-ci est éliminé au lieu de revenir en jeu !
+Avantage
+
+Lorsque vous poussez un autre Keeper en dehors du plateau, que cela soit par une porte ou non, vous avez le droit de rejouer immédiatement ! Lancez 
+cependant un dé de moins lors de ce tour bonus.
+
+Cette règle est cumulative : si vous poussez plusieurs Keepers d'affilée au cours du même tour, vous lancez à chaque fois un dé de moins supplémentaire.
+Fermeture d'un Portail
+
+Au début de son tour, si le Cube Nexus d’un joueur éliminé est encore en jeu, il retire son Cube Nexus de la partie.
+
+Si un Keeper se trouve sur une tuile du Cube retiré, celui-ci tombe du plateau. Il reviendra donc à sa Tuile de départ au début de son prochain tour.
+Attention aux réactions en chaîne !
+
+Si certains cubes ne sont alors plus connectés aux autres par au moins deux tranches, le joueur éliminé peut reconnecter le ou les cubes détachés 
+comme il le souhaite. Pour ce faire, il doit toujours déplacer le minimum de cubes possibles et ne peut pas arranger les cubes qui sont déjà 
+correctement connectés entre eux.
